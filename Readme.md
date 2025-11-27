@@ -1,4 +1,3 @@
-<img src="https://github.com/millyjain09/millyjain09/blob/main/banner.png" alt="logo" width="1176" height="418">
 
 <div align="center">
   
