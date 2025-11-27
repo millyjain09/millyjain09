@@ -1,3 +1,5 @@
+<img src="https://github.com/millyjain09/millyjain09/blob/main/banner.png" alt="logo" width="1176" height="418">
+
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6ac5b328.gif" alt="Section Separator Banner" width="100%">
