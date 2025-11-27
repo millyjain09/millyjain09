@@ -19,7 +19,7 @@
 
 <div align="center">
   <img align="right" alt="Coding Girl GIF" width="300" src="https://github.com/user-attachments/assets/5d22f782-094c-4f3b-9c97-9f4e4890e829" />
-">
+
 </div>
 
 * **🎓 B.Tech (CSE) Student** focused on creating impactful digital solutions.
