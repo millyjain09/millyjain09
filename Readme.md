@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=220&section=header&text=Milly%20Jain&fontSize=85&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Scalable%20Apps%20and%20Exploring%20AI&descAlignY=65&descAlign=50" width="100%" alt="Milly Jain Banner"/>
-  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=220&section=header&text=Milly%20Jain&fontSize=90&fontAlignY=35&animation=scaleIn&fontColor=ffffff&desc=Building%20Scalable%20Apps%20and%20Exploring%20AI&descAlignY=65&descAlign=50" width="100%" alt="Milly Jain Banner"/>
   
+  <br/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DDDDDD&center=true&vCenter=true&width=650&lines=%3E_Full-Stack+Developer+%7C+MERN;%3E_Generative+AI+Integrations;%3E_Hackathon+Champion+%F0%9F%8F%86;%3E_Real-Time+WebRTC+Enthusiast;%3E_Competitive+Programmer+(350%2B+LC)" alt="Typing SVG" />
   </a>
@@ -138,10 +139,13 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=millyjain09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=aaaaaa&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=millyjain09&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&cache_seconds=86400" height="165" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=millyjain09&theme=dark&hide_border=true&background=0d1117&stroke=555555&ring=888888&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
+
+  
+
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=millyjain09&theme=tokyonight" height="190" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com/?user=millyjain09&theme=tokyonight&hide_border=true" height="190" alt="GitHub Streak" />
 </div>
 
 ---
