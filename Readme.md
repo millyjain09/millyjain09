@@ -96,7 +96,7 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
       <br>
       <p>Interactive learning platform built around gamification, featuring coding challenges, learning resources, progress tracking, daily streaks, and competitive practice experiences.</p>
       <p><strong>Tech:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.io</code></p>
-      <a href="#">
+      <a href="https://gamified-learning-platform-zeta.vercel.app/">
         <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
     </td>
