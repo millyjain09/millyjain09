@@ -1,90 +1,71 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=220&section=header&text=Milly%20Jain&fontSize=90&fontAlignY=35&animation=scaleIn&fontColor=ffffff&desc=Building%20Scalable%20Apps%20and%20Exploring%20AI&descAlignY=65&descAlign=50" width="100%" alt="Milly Jain Banner"/>
-  
+
   <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=DDDDDD&center=true&vCenter=true&width=650&lines=%3E_Full-Stack+Developer+%7C+MERN;%3E_Generative+AI+Integrations;%3E_Hackathon+Champion+%F0%9F%8F%86;%3E_Real-Time+WebRTC+Enthusiast;%3E_Competitive+Programmer+(350%2B+LC)" alt="Typing SVG" />
   </a>
-  <br/><br/>
+
+<br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=millyjain09&label=Profile+Views&color=555555&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/🏆_Hackathon-1st_Place_Winner-333333?style=for-the-badge" alt="Hackathon Winner"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓_CGPA-9.01%20%2F%2010-555555?style=for-the-badge" alt="CGPA 9.01"/>
+  <img src="https://img.shields.io/badge/🎓_CGPA-9.03%20%2F%2010-555555?style=for-the-badge" alt="CGPA 9.01"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open_To-Collaborations-333333?style=for-the-badge" alt="Open to Collaborations"/>
 </div>
 
+---
 
 ## 👩‍💻 About Me
 
 <img align="right" alt="Coding" width="260" src="https://github.com/user-attachments/assets/5d22f782-094c-4f3b-9c97-9f4e4890e829" />
 
-B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building real-world products at the intersection of **Full-Stack Development** and **Generative AI**. With a strong foundation in C++ and over 350+ LeetCode problems solved, I thrive on writing optimized, scalable code and engineering intelligent systems.
+B.Tech CSE student (9.03 CGPA) at Geeta University, passionate about building real-world products at the intersection of **Full-Stack Development** and **Generative AI**. With a strong foundation in C++ and 350+ LeetCode problems solved, I enjoy building scalable applications, designing APIs, and integrating AI into practical products.
 
 * **💼 Experience:** Ex-Generative AI Intern at Skilligence EdTech (Computer Vision, AI Simulators).
-* **⚔️ Crafting:** *Growtix* — a comprehensive educational hub with AI mentors and a LeetCode-style practice lab.
 * **🏆 Won:** 1st Place at Hackforge 2.0 Hackathon.
-* **🤖 Powered by:** React, Next.js, Node.js, WebRTC, Gemini/OpenAI APIs, and solid system design.
-* **💬 Talk to me about:** Real-time applications, AI API integrations, or competitive programming.
+* **🤖 Powered by:** React, TypeScript, Node.js, FastAPI, PostgreSQL, MongoDB, and AI APIs.
+* **💬 Talk to me about:** Full-stack development, AI integrations, real-time applications, or competitive programming.
 
 <br clear="right"/>
 
 ---
 
-
 ## ⚙️ Tech Arsenal
 
 <div align="center">
-  <strong>Languages</strong><br/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/><br/>
 
-  <strong>Frontend & Frameworks</strong><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br/><br/>
+<strong>Languages</strong><br/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-  <strong>Backend, Auth & Real-Time</strong><br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <br/><br/>
+<br/><br/>
 
-  <strong>Databases & Cloud</strong><br/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <br/><br/>
+<strong>Frontend & Frameworks</strong><br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-  <strong>AI & Tools</strong><br/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<br/><br/>
+
+<strong>Backend & APIs</strong><br/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-161b22?style=for-the-badge" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+
+<br/><br/>
+
+<strong>Databases & Backend Services</strong><br/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<br/><br/>
+
+<strong>AI & GenAI</strong><br/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/AI_APIs-161b22?style=for-the-badge" /> <img src="https://img.shields.io/badge/Prompt_Engineering-161b22?style=for-the-badge" />
+
+<br/><br/>
+
+<strong>DevOps & Developer Tools</strong><br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/><br/>
+
+<strong>AI Coding Tools</strong><br/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-161b22?style=for-the-badge" />
+
 </div>
-
----
-
 
 
 
@@ -97,9 +78,8 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
       <br>
       <p>Interactive learning platform built around gamification, featuring coding challenges, learning resources, progress tracking, daily streaks, and competitive practice experiences.</p>
       <p><strong>Tech:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.io</code></p>
-      <a href="https://gamified-learning-platform-zeta.vercel.app/">
-        <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-      </a>
+       <a href="https://gamified-learning-platform-zeta.vercel.app/">
+    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
     </td>
 
 
@@ -108,11 +88,11 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
   <br>
   <p>AI-powered educational ecosystem combining an AI mentor, learning resources, documentation, coding practice, daily challenges, gamification, and real-time features.</p>
   <p><strong>Tech:</strong> <code>TypeScript</code> <code>Supabase</code> <code>Socket.io</code> <code>Monaco Editor</code></p>
-  <a href="https://growtix.vercel.app/">
+     <a href="https://growtix.vercel.app">
     <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-  </a>
+ 
 </td>
-
+```
 
   </tr>
 
@@ -122,9 +102,8 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
       <br>
       <p>AI-powered interview preparation platform featuring technical and HR interview simulations, live coding, automated proctoring, cheat sheets, and performance analytics.</p>
       <p><strong>Tech:</strong> <code>React.js</code> <code>FastAPI</code> <code>Monaco</code> <code>Recharts</code></p>
-      <a href="https://ai-mockmate-flax.vercel.app/">
-        <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-      </a>
+     <a href="https://ai-mockmate-flax.vercel.app">
+    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
     </td>
 
 
@@ -134,10 +113,10 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
   <p>Full-stack hackathon management platform with dedicated student and admin portals, team formation, invitations, certificate generation, analytics, and real-time event management.</p>
   <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>Passport.js</code> <code>Cloudinary</code></p>
   <a href="#">
-    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
-
+```
 
   </tr>
 
@@ -147,9 +126,9 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
       <br>
       <p>Real-time communication platform supporting low-latency messaging and peer-to-peer video and voice calling using WebRTC-based communication.</p>
       <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>WebRTC</code> <code>Chakra UI</code></p>
-      <a href="https://chit-chat-nine-omega.vercel.app/">
-        <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-      </a>
+    <a href="https://chit-chat-nine-omega.vercel.app">
+    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
     </td>
 
 
@@ -158,15 +137,14 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
   <br>
   <p>Full-stack e-commerce platform with role-based administration, JWT authentication, product management, intelligent search, and AI-powered customer assistance.</p>
   <p><strong>Tech:</strong> <code>MERN</code> <code>Google AI API</code> <code>JWT</code></p>
-  <a href="https://shopverse-pi.vercel.app/">
+   <a href="https://shopverse-pi.vercel.app">
     <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
-
+```
 
   </tr>
 </table>
-
 
 ---
 
@@ -176,7 +154,7 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 > Engineered a winning solution under strict time pressure with high real-world applicability.
 >
 > ⚔️ **LeetCode Milestone** (2024 - Present)
-> Mastered Data Structures and Algorithms with **350+ problems solved**.
+> Solved **350+ LeetCode problems**.
 >
 > 🎓 **Spring School: Sports Technology, ML & Data Analytics** (IIT Delhi, Mar 2026)
 > Participated in rigorous analytical and machine learning workshops at India's premier institute.
@@ -187,12 +165,10 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 
 <div align="center">
 
-  
-
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=millyjain09&theme=tokyonight" height="190" alt="Top Languages" />
-  
+
   <img src="https://streak-stats.demolab.com/?user=millyjain09&theme=tokyonight&hide_border=true" height="190" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -200,19 +176,27 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 ## 🤝 Connect With Me
 
 <div align="center">
+
   <a href="https://linkedin.com/in/milly-jain" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Milly_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
+
   <a href="https://www.leetcode.com/jain0912" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-jain0912-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
+
   <a href="https://github.com/millyjain09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-millyjain09-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a><br/><br/>
+  </a>
 
-  <i>"Code is not just logic — it's a language to shape the world."</i><br/><br/>
+<br/><br/>
+
+<i>"Code is not just logic — it's a language to shape the world."</i>
+
+<br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=footer&text=%2F%2F%20keep%20building.%20keep%20shipping.&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=50" width="100%" alt="Footer"/>
+
 </div>
