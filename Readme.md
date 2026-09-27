@@ -85,7 +85,7 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 ---
 
 
-## 🚀 Featured Projects
+
 
 ## 🚀 Featured Projects
 
@@ -101,7 +101,7 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
       </a>
     </td>
 
-```
+
 <td width="50%" valign="top">
   <h3 align="center">🚀 Growtix</h3>
   <br>
@@ -126,7 +126,7 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
       </a>
     </td>
 
-```
+
 <td width="50%" valign="top">
   <h3 align="center">🎟️ Hackathon Management Portal</h3>
   <br>
@@ -151,7 +151,7 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
       </a>
     </td>
 
-```
+
 <td width="50%" valign="top">
   <h3 align="center">🛒 ShopVerse</h3>
   <br>
