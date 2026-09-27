@@ -141,7 +141,7 @@ B.Tech CSE student (9.03 CGPA) at Geeta University, passionate about building re
     <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
-```
+
 
   </tr>
 </table>
