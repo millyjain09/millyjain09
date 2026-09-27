@@ -86,38 +86,81 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table bordercolor="#333333">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎟️ Growtix</h3>
+      <h3 align="center">🎟️ Hackathon Management Portal</h3>
       <br>
-      <p>Architected an educational hub integrating an AI mentor and a LeetCode-style gamified practice lab with daily challenges and real-time tech news feeds.</p>
-      <p><strong>Tech:</strong> <code>TypeScript</code> <code>Supabase</code> <code>Socket.io</code> <code>Monaco</code></p>
-      <a href="https://growtix.vercel.app/"><img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+      <p>Full-stack platform for managing hackathons with dedicated student and admin portals, team formation, invitations, certificate generation, and real-time event management.</p>
+      <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>Passport.js</code> <code>Cloudinary</code></p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
     </td>
+
+
+<td width="50%" valign="top">
+  <h3 align="center">🎮 Gamified Learning Platform</h3>
+  <br>
+  <p>Interactive learning platform designed around gamification with coding challenges, learning resources, progress tracking, streaks, and competitive practice experiences.</p>
+  <p><strong>Tech:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.io</code></p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</td>
+
+
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI MockMate</h3>
       <br>
-      <p>Engineered an AI-powered interview platform featuring secure live coding, automated proctoring, and comprehensive analytics dashboards.</p>
+      <p>AI-powered interview preparation platform featuring technical and HR interview simulations, live coding, automated proctoring, cheat sheets, and performance analytics.</p>
       <p><strong>Tech:</strong> <code>React.js</code> <code>FastAPI</code> <code>Monaco</code> <code>Recharts</code></p>
-      <a href="https://ai-mockmate-flax.vercel.app/"><img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+      <a href="https://ai-mockmate-flax.vercel.app/">
+        <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
     </td>
+
+
+<td width="50%" valign="top">
+  <h3 align="center">💬 Chit Chat</h3>
+  <br>
+  <p>Real-time communication platform supporting low-latency messaging and peer-to-peer video and voice calling with WebRTC-based communication.</p>
+  <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>WebRTC</code> <code>Chakra UI</code></p>
+  <a href="https://chit-chat-nine-omega.vercel.app/">
+    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💬 Chit Chat</h3>
+      <h3 align="center">🚀 Growtix</h3>
       <br>
-      <p>A real-time communication platform utilizing Socket.io for low-latency messaging, alongside WebRTC for seamless peer-to-peer video/voice calling.</p>
-      <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>WebRTC</code> <code>Chakra UI</code></p>
-      <a href="https://chit-chat-nine-omega.vercel.app/"><img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+      <p>AI-powered educational ecosystem combining an AI mentor, learning resources, documentation, coding practice, daily challenges, gamification, and real-time features.</p>
+      <p><strong>Tech:</strong> <code>TypeScript</code> <code>Supabase</code> <code>Socket.io</code> <code>Monaco Editor</code></p>
+      <a href="https://growtix.vercel.app/">
+        <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 Shop Verse</h3>
-      <br>
-      <p>A full-stack e-commerce app with role-based admin controls, token-based auth, and AI-driven customer support with intelligent search logic.</p>
-      <p><strong>Tech:</strong> <code>MERN</code> <code>Google AI API</code> <code>JWT</code></p>
-      <a href="https://shopverse-pi.vercel.app/"><img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
-    </td>
+
+<td width="50%" valign="top">
+  <h3 align="center">🛒 ShopVerse</h3>
+  <br>
+  <p>Full-stack e-commerce platform with role-based administration, JWT authentication, product management, intelligent search, and AI-powered customer assistance.</p>
+  <p><strong>Tech:</strong> <code>MERN</code> <code>Google AI API</code> <code>JWT</code></p>
+  <a href="https://shopverse-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</td>
+```
+
   </tr>
 </table>
 
