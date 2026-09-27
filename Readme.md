@@ -84,6 +84,7 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
@@ -91,26 +92,26 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 <table bordercolor="#333333">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎟️ Hackathon Management Portal</h3>
+      <h3 align="center">🎮 Gamified Learning Platform</h3>
       <br>
-      <p>Full-stack platform for managing hackathons with dedicated student and admin portals, team formation, invitations, certificate generation, and real-time event management.</p>
-      <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>Passport.js</code> <code>Cloudinary</code></p>
+      <p>Interactive learning platform built around gamification, featuring coding challenges, learning resources, progress tracking, daily streaks, and competitive practice experiences.</p>
+      <p><strong>Tech:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.io</code></p>
       <a href="#">
         <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
     </td>
 
-
+```
 <td width="50%" valign="top">
-  <h3 align="center">🎮 Gamified Learning Platform</h3>
+  <h3 align="center">🚀 Growtix</h3>
   <br>
-  <p>Interactive learning platform designed around gamification with coding challenges, learning resources, progress tracking, streaks, and competitive practice experiences.</p>
-  <p><strong>Tech:</strong> <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Socket.io</code></p>
-  <a href="#">
+  <p>AI-powered educational ecosystem combining an AI mentor, learning resources, documentation, coding practice, daily challenges, gamification, and real-time features.</p>
+  <p><strong>Tech:</strong> <code>TypeScript</code> <code>Supabase</code> <code>Socket.io</code> <code>Monaco Editor</code></p>
+  <a href="https://growtix.vercel.app/">
     <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
-
+```
 
   </tr>
 
@@ -125,14 +126,14 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
       </a>
     </td>
 
-
+```
 <td width="50%" valign="top">
-  <h3 align="center">💬 Chit Chat</h3>
+  <h3 align="center">🎟️ Hackathon Management Portal</h3>
   <br>
-  <p>Real-time communication platform supporting low-latency messaging and peer-to-peer video and voice calling with WebRTC-based communication.</p>
-  <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>WebRTC</code> <code>Chakra UI</code></p>
-  <a href="https://chit-chat-nine-omega.vercel.app/">
-    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  <p>Full-stack hackathon management platform with dedicated student and admin portals, team formation, invitations, certificate generation, analytics, and real-time event management.</p>
+  <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>Passport.js</code> <code>Cloudinary</code></p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt=""/>
   </a>
 </td>
 ```
@@ -141,15 +142,16 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Growtix</h3>
+      <h3 align="center">💬 Chit Chat</h3>
       <br>
-      <p>AI-powered educational ecosystem combining an AI mentor, learning resources, documentation, coding practice, daily challenges, gamification, and real-time features.</p>
-      <p><strong>Tech:</strong> <code>TypeScript</code> <code>Supabase</code> <code>Socket.io</code> <code>Monaco Editor</code></p>
-      <a href="https://growtix.vercel.app/">
+      <p>Real-time communication platform supporting low-latency messaging and peer-to-peer video and voice calling using WebRTC-based communication.</p>
+      <p><strong>Tech:</strong> <code>MERN</code> <code>Socket.io</code> <code>WebRTC</code> <code>Chakra UI</code></p>
+      <a href="https://chit-chat-nine-omega.vercel.app/">
         <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
       </a>
     </td>
 
+```
 <td width="50%" valign="top">
   <h3 align="center">🛒 ShopVerse</h3>
   <br>
@@ -163,6 +165,7 @@ B.Tech CSE student (9.01 CGPA) at Geeta University, passionate about building re
 
   </tr>
 </table>
+
 
 ---
 
