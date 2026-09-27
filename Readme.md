@@ -92,7 +92,7 @@ B.Tech CSE student (9.03 CGPA) at Geeta University, passionate about building re
     <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
  
 </td>
-```
+
 
   </tr>
 
@@ -116,7 +116,7 @@ B.Tech CSE student (9.03 CGPA) at Geeta University, passionate about building re
     <img src="https://img.shields.io/badge/-View_Project-161b22?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </td>
-```
+
 
   </tr>
 
@@ -154,7 +154,7 @@ B.Tech CSE student (9.03 CGPA) at Geeta University, passionate about building re
 > Engineered a winning solution under strict time pressure with high real-world applicability.
 >
 > ⚔️ **LeetCode Milestone** (2024 - Present)
-> Solved **350+ LeetCode problems**.
+> Solved **500+ LeetCode problems**.
 >
 > 🎓 **Spring School: Sports Technology, ML & Data Analytics** (IIT Delhi, Mar 2026)
 > Participated in rigorous analytical and machine learning workshops at India's premier institute.
